@@ -1,0 +1,15 @@
+{
+   "name":"a",
+   "address":{
+      "permanent":{
+         "flat":302,
+         "addLine1":"abc society",
+         "city":"Delhi"
+      },
+      "current":{
+         "flat":101,
+         "addLine1":"xyz hostel",
+         "city":"Mumbai"
+      }
+   },
+}
